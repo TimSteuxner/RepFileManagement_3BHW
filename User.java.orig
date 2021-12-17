@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+public class User{
+	private int _userId;
+	private LocalDate _birthdate;
+}
+=======
+public class User{
+  private int _userId;
+  private String _username;
+}  
+>>>>>>> ae45ed475c79be45e1ceb675d7c3a17efb8b9e66

@@ -1,4 +1,5 @@
 public class User{
-	private int _userId;
-	private LocalDate _birthdate;
-}
+  private int _userId;
+  private String _username;
+  private LocalDate _birthdate;
+}  
